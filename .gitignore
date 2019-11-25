@@ -2,3 +2,4 @@
 tweepy.py
 __pycache__/tweepy.cpython-36.pyc
 .ipynb_checkpoints/wrangle_act-checkpoint.ipynb
+twitter_creds.py
