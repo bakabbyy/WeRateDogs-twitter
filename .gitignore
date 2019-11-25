@@ -3,3 +3,9 @@ tweepy.py
 __pycache__/tweepy.cpython-36.pyc
 .ipynb_checkpoints/wrangle_act-checkpoint.ipynb
 twitter_creds.py
+avg_conf.png
+distro_ratings.png
+dog-rates-social.jpg
+dog_stage_rating.png
+*.png
+*.jpg
